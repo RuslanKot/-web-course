@@ -1,0 +1,8 @@
+.Refresh{
+    background-color: blueviolet;
+    color:red;
+   border: 2px solid green;
+}
+body{
+    background-image: url(image/image1.jpg);
+}
