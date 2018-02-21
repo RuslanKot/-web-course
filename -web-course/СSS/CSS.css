@@ -1,0 +1,30 @@
+html {
+    background: url(https://vignette.wikia.nocookie.net/shararam-smeshi/images/0/02/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD_2.png/revision/latest?cb=20140403060802&path-prefix=ru)
+repeat-y red left ;
+}
+body { 
+    background-color: rgba(108, 88, 199, 0.438);
+
+}
+
+h1{
+    background-color: blue;
+}
+.Style {
+    background-color: brown;
+}
+p#Sterv:first-letter {
+    color: blue;
+}
+p#Sterv:first-line {
+    color: rgb(6, 236, 37);
+}
+.Href:hover {
+    color: rgb(155, 16, 16);
+}
+.Href {
+    color: blue;
+}
+p:active {
+    background-color: royalblue;
+}
