@@ -27,10 +27,10 @@ p#Sterv:first-line {
 .Href:hover {
     color: rgb(155, 16, 16);
 }
-.Href {
+.Href:active     {
     color: blue;
 }
-p:active{
+p:hover{
     background-color: rgb(21, 60, 180);
 }
 #TextStyles {
@@ -110,3 +110,10 @@ aside {
     
 
 }
+.spanBlock {
+    display: block;
+    height: 70px;
+    width: 70px;
+    border: 1px solid rgb(0, 7, 7);
+    overflow: auto;
+}   
